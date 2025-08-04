@@ -8,7 +8,7 @@ export default async function RootLayout({
   return (
     <SWRProvider
       attribute="class"
-      defaultTheme="light"
+      defaultTheme="dark"
       enableSystem
       disableTransitionOnChange
     >
