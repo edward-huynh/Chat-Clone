@@ -9,7 +9,7 @@ export default function OnBoardingPage() {
   return (
     <div className="min-h-screen">
       <Header />
-      <main className=""> {/* Add padding-top to account for fixed header */}
+      <main className="">
         <Hero3D />
         <AboutSection />
         <FeaturesSection />
